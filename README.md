@@ -24,6 +24,7 @@ This repository contains 10 practical programs implementing fundamental reinforc
 - Used window size of 50 to adapt to changing reward patterns
 - Visualized cumulative rewards showing algorithm's ability to track changing optimal arms
 - Demonstrated adaptation to drift parameter (0.2) in 5-armed bandit
+  
 
 **Screenshot**
 
